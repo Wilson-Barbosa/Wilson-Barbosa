@@ -1,12 +1,15 @@
-### Hi there! I'm Wilson and I'm a programmer
+### Hi there! I'm Wilson! :grinning: 
 
 <p>I've started my journey in the world of coding in late 2022 by attending a course of Analysis and System Development offered by FATEC, located here in Brazil.</p>
 
-<p>At the current moment I'm building my career in Software Development, more specifically web development. To achieve this goal I'm studying Angular and Bootstrap, while also building a solid foundation in HTML/CSS and JavaScript concepts.</p>
+<p>At the current moment I'm building my career in Software Development, more specifically web development. To achieve this goal I'm studying Angular and Bootstrap, while also building a solid foundation in HTML/CSS and JavaScript concepts.</p><br>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-barbosa)
+
 
 <hr>
 
-### Technologies and Languages
+### 🧰 Technologies and Languages
 
   <img align="left" width="35" styling="padding-right:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="left" width="35" styling="padding-right:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -17,6 +20,6 @@
 
 <hr>
 
-### My GitHub Stats
+### 📈 GitHub Stats
 
-![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilson-Barbosa&show_icons=true&theme=github_dark)
+![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilson-Barbosa&show_icons=true&theme=moltack)
