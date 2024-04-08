@@ -27,4 +27,4 @@
 
 ### 📈 GitHub Stats
 
-![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilson-Barbosa&show_icons=true&theme=moltack)
+![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilson-Barbosa&show_icons=true&theme=shades-of-purple)
