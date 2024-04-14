@@ -4,7 +4,7 @@
 
 <p>At the current moment I'm building my career in Software Development, more specifically web development. To achieve this goal I'm studying Angular and Bootstrap, while also building a solid foundation in HTML/CSS, JavaScript and TypeScript concepts. I'm also learning Spring Boot to create web APIs, OOP and Data Structures both in Java!</p>
 
-<p>At the moment I'm doing a BootCamp offered by a very good professor of mine. This is a decisive step in my career and I learn more each day. to The link for it is available at https://www.abutua.com/</p><br>
+<p>At the moment I'm doing a BootCamp offered by a very good professor of mine, Glauco Todesco. This was a decisive step in my career and I learn more each day. The link for it is available at https://www.abutua.com/</p><br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-barbosa)
 
